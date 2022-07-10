@@ -40,9 +40,9 @@ def mine_swepeer2(bombs,num_rows,num_col):
 
 
 
-<<<<<<< HEAD
+#<<<<<<< HEAD
 mine_swepeer(([0,0],[2,2],[2,0],[2,3],[0,1]),3,4)
-=======
+
 #mine_swepeer(([0,0],[2,2],[2,0],[2,3],[0,1]),3,4)
->>>>>>> 15aca57 (add to folder)
+#>>>>>>> 15aca57 (add to folder)
 mine_swepeer2(([0,0],[2,2],[2,0],[2,3],[0,1]),3,4)
